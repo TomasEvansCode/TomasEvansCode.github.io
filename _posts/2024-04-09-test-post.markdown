@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Hello world post"
+date:   2024-04-09 21:27:00 +0100
+categories: jekyll test coding
+---
+
+# Test post
+Hello world! This is a test.
+
+## Header 2
+
+### Test code block (Header 3)
+```c#
+public void HelloWorld()
+{
+    Console.WriteLine("Hello World!");
+}
+```
+
+----------
+
+> This is the best blog ever
+- *Tomas Evans, 09/04/2024*
